@@ -1,0 +1,34 @@
+button.fbtn {
+    background-color: #14B8C9 !important;
+    color: white; /* Optional for better contrast */
+    /* margin-left: 20%; */
+
+}
+ 
+button.redo{
+    border: #14B8C9 1px solid;
+    color: #14B8C9;
+    margin-left: -1.5%;
+}
+button.redo:hover{
+    background-color: #14B8C9 !important;
+    color: white; /* Optional for better contrast */
+}
+
+.sticky-top {
+  z-index: 1050;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.heading{
+    color: #14B8C9;
+}
+
+button.clr{
+    margin-left: 4%;
+}
+
+.whiteboard-toolbar {
+  max-width: 900px;
+  background-color: #f8f9fa;
+}
